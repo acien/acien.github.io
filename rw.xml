@@ -1,0 +1,2060 @@
+<RuneWords>
+	<RuneWord>
+		<Name>Ancient's Pledge</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Shield</BaseType>
+		<BaseType>Paladin Shield</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Ral</Rune>
+		<Rune>Ort</Rune>
+		<Rune>Tal</Rune>
+		<Stats>
+			<StatBase>Shields</StatBase>
+			<Stat>+50% Enhanced Defense</Stat>
+			<Stat>Cold Resist +43%</Stat>
+			<Stat>Fire Resist +48%</Stat>
+			<Stat>Lightning Resist +48%</Stat>
+			<Stat>Poison Resist +48%</Stat>
+			<Stat>10% Damage Goes To Mana</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Black</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Club</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Mace</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Thul</Rune>
+		<Rune>Io</Rune>
+		<Rune>Nef</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+120% Enhanced Damage</Stat>
+			<Stat>40% Chance Of Crushing Blow</Stat>
+			<Stat>+200 To Attack Rating</Stat>
+			<Stat>Adds 3-14 Cold Damage - Cold Duration 3 Seconds</Stat>
+			<Stat>+10 To Vitality</Stat>
+			<Stat>15% Increased Attack Speed</Stat>
+			<Stat>Knockback</Stat>
+			<Stat>Magic Damage Reduced By 2</Stat>
+			<Stat>Level 4 Corpse Explosion (12 Charges)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Fury</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Dagger</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Club</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<BaseType>Assassin Katar</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Jah</Rune>
+		<Rune>Gul</Rune>
+		<Rune>Eth</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+209-269% Enhanced Damage (varies)</Stat>
+			<Stat>40% Increased Attack Speed</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>33-66% Chance Of Open Wounds (varies)</Stat>
+			<Stat>33-66% Deadly Strike (varies)</Stat>
+			<Stat>Ignore Target's Defense</Stat>
+			<Stat>-25% Target Defense</Stat>
+			<Stat>20% Bonus To Attack Rating</Stat>
+			<Stat>6% Life Stolen Per Hit</Stat>
+			<Stat>+5 To Frenzy (Barbarian Only)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Holy Thunder</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Scepter</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Eth</Rune>
+		<Rune>Ral</Rune>
+		<Rune>Ort</Rune>
+		<Rune>Tal</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+60% Enhanced Damage</Stat>
+			<Stat>-25% Target Defense</Stat>
+			<Stat>Adds 5-30 Fire Damage</Stat>
+			<Stat>Adds 21-110 Lightning Damage</Stat>
+			<Stat>+75 Poison Damage Over 5 Seconds</Stat>
+			<Stat>+10 To Maximum Damage</Stat>
+			<Stat>Lightning Resistance +60%</Stat>
+			<Stat>+5 To Maximum Lightning Resistance</Stat>
+			<Stat>+3 To Holy Shock (Paladin Only)</Stat>
+			<Stat>Level 7 Chain Lightning (60 Charges)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Honor</Name>
+		<BaseSockets>5</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Club</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Amn</Rune>
+		<Rune>El</Rune>
+		<Rune>Ith</Rune>
+		<Rune>Tir</Rune>
+		<Rune>Sol</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+160% Enhanced Damage</Stat>
+			<Stat>+9 To Minimum Damage</Stat>
+			<Stat>+9 To Maximum Damage</Stat>
+			<Stat>25% Deadly Strike</Stat>
+			<Stat>+250 To Attack Rating</Stat>
+			<Stat>+1 to All Skills</Stat>
+			<Stat>7% Life Stolen Per Hit</Stat>
+			<Stat>Replenish Life +10</Stat>
+			<Stat>+10 To Strength</Stat>
+			<Stat>+1 To Light Radius</Stat>
+			<Stat>+2 To Mana After Each Kill</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>King's Grace</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Scepter</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Amn</Rune>
+		<Rune>Ral</Rune>
+		<Rune>Thul</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+100% Enhanced Damage</Stat>
+			<Stat>+100% Damage To Demons</Stat>
+			<Stat>+50% Damage To Undead</Stat>
+			<Stat>Adds 5-30 Fire Damage</Stat>
+			<Stat>Adds 3-14 Cold Damage - 3 Second Duration</Stat>
+			<Stat>+150 To Attack Rating</Stat>
+			<Stat>+100 To Attack Rating Against Demons</Stat>
+			<Stat>+100 To Attack Rating Against Undead</Stat>
+			<Stat>7% Life Stolen Per Hit</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Leaf</Name>
+		<BaseSockets>2</BaseSockets>
+		<BaseType>Staff</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Tir</Rune>
+		<Rune>Ral</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>Adds 5-30 Fire Damage</Stat>
+			<Stat>+2 To Fire Skills</Stat>
+			<Stat>+3 To Fire Bolt (Sorceress Only)</Stat>
+			<Stat>+3 To Inferno (Sorceress Only)</Stat>
+			<Stat>+3 To Warmth (Sorceress Only)</Stat>
+			<Stat>+2 To Mana After Each Kill</Stat>
+			<Stat>+ (2 Per Character Level) +2-198 To Defense (Based On Character Level)</Stat>
+			<Stat>Cold Resist +33%</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Lionheart</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Hel</Rune>
+		<Rune>Lum</Rune>
+		<Rune>Fal</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>+80-110% Enhanced Damage (varies)</Stat>
+			<Stat>Requirements -15%</Stat>
+			<Stat>+10-25 To Strength (varies)</Stat>
+			<Stat>+10 To Energy</Stat>
+			<Stat>+10-20 To Vitality (varies)</Stat>
+			<Stat>+10-15 To Dexterity (varies)</Stat>
+			<Stat>+50 To Life</Stat>
+			<Stat>All Resistances +20-30 (varies)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Lore</Name>
+		<BaseSockets>2</BaseSockets>
+		<BaseType>Helmet</BaseType>
+		<BaseType>Circlet</BaseType>
+		<BaseType>Barbarian Helmet</BaseType>
+		<BaseType>Druid Pelt</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Ort</Rune>
+		<Rune>Sol</Rune>
+		<Stats>
+			<StatBase>Helmets</StatBase>
+			<Stat>+1 To All Skill Levels</Stat>
+			<Stat>+5-10 to Energy (varies)</Stat>
+			<Stat>+1 To Mana After Each Kill</Stat>
+			<Stat>Lightning Resist +30%</Stat>
+			<Stat>Damage Reduced By 7</Stat>
+			<Stat>+2 To Light Radius</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Malice</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Dagger</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Club</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<BaseType>Assassin Katar</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Ith</Rune>
+		<Rune>El</Rune>
+		<Rune>Eth</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+33% Enhanced Damage</Stat>
+			<Stat>+9 To Maximum Damage</Stat>
+			<Stat>100% Chance Of Open Wounds</Stat>
+			<Stat>-25% Target Defense</Stat>
+			<Stat>-100 To Monster Defense Per Hit</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>+50 To Attack Rating</Stat>
+			<Stat>Drain Life -5</Stat>
+			<Stat>+2 Life Gained After Each Hit</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Melody</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Shael</Rune>
+		<Rune>Ko</Rune>
+		<Rune>Nef</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+50% Enhanced Damage</Stat>
+			<Stat>+300% Damage To Undead</Stat>
+			<Stat>+3 To Bow and Crossbow Skills (Amazon Only)</Stat>
+			<Stat>+3 To Critical Strike (Amazon Only)</Stat>
+			<Stat>+3 To Dodge (Amazon Only)</Stat>
+			<Stat>+3 To Slow Movement (Amazon Only)</Stat>
+			<Stat>20% Increased Attack Speed</Stat>
+			<Stat>+10 To Dexterity</Stat>
+			<Stat>Knockback</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Memory</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Staff</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Lum</Rune>
+		<Rune>Io</Rune>
+		<Rune>Sol</Rune>
+		<Rune>Eth</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+3 to Sorceress Skill Levels</Stat>
+			<Stat>33% Faster Cast Rate</Stat>
+			<Stat>Increase Maximum Mana 20%</Stat>
+			<Stat>+3 Energy Shield (Sorceress Only)</Stat>
+			<Stat>+2 Static Field (Sorceress Only)</Stat>
+			<Stat>+10 To Energy</Stat>
+			<Stat>+10 To Vitality</Stat>
+			<Stat>+9 To Minimum Damage</Stat>
+			<Stat>-25% Target Defense</Stat>
+			<Stat>Magic Damage Reduced By 7</Stat>
+			<Stat>+50% Enhanced Defense</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Nadir</Name>
+		<BaseSockets>2</BaseSockets>
+		<BaseType>Helmet</BaseType>
+		<BaseType>Circlet</BaseType>
+		<BaseType>Barbarian Helmet</BaseType>
+		<BaseType>Druid Pelt</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Nef</Rune>
+		<Rune>Tir</Rune>
+		<Stats>
+			<StatBase>Helmets</StatBase>
+			<Stat>+50% Enhanced Defense</Stat>
+			<Stat>+10 Defense</Stat>
+			<Stat>+30 Defense vs. Missile</Stat>
+			<Stat>Level 13 Cloak of Shadows (9 Charges)</Stat>
+			<Stat>+3-5 Mana After Each Kill (varies)</Stat>
+			<Stat>+5 To Strength</Stat>
+			<Stat>-33% Extra Gold From Monsters</Stat>
+			<Stat>-3 To Light Radius</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Radiance</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Helmet</BaseType>
+		<BaseType>Circlet</BaseType>
+		<BaseType>Barbarian Helmet</BaseType>
+		<BaseType>Druid Pelt</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Nef</Rune>
+		<Rune>Sol</Rune>
+		<Rune>Ith</Rune>
+		<Stats>
+			<StatBase>Helmets</StatBase>
+			<Stat>+20-40% Enhanced Damage (varies)</Stat>
+			<Stat>+75% Enhanced Defense</Stat>
+			<Stat>+30 Defense Vs. Missile</Stat>
+			<Stat>+10 To Energy</Stat>
+			<Stat>+10 To Vitality</Stat>
+			<Stat>15% Damage Goes To Mana</Stat>
+			<Stat>+33 To Mana</Stat>
+			<Stat>Damage Reduced By 7</Stat>
+			<Stat>+5 To Light Radius</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Rhyme</Name>
+		<BaseSockets>2</BaseSockets>
+		<BaseType>Shield</BaseType>
+		<BaseType>Paladin Shield</BaseType>
+		<BaseType>Necromancer Shrunken Head</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Shael</Rune>
+		<Rune>Eth</Rune>
+		<Stats>
+			<StatBase>Shields</StatBase>
+			<Stat>20% Increased Chance of Blocking</Stat>
+			<Stat>40% Faster Block Rate</Stat>
+			<Stat>All Resistances +25</Stat>
+			<Stat>Regenerate Mana 15%</Stat>
+			<Stat>Cannot Be Frozen</Stat>
+			<Stat>50% Extra Gold From Monsters</Stat>
+			<Stat>25% Better Chance Of Getting Magic Items</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Silence</Name>
+		<BaseSockets>6</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Dol</Rune>
+		<Rune>Eld</Rune>
+		<Rune>Hel</Rune>
+		<Rune>Ist</Rune>
+		<Rune>Tir</Rune>
+		<Rune>Vex</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>200% Enhanced Damage</Stat>
+			<Stat>+75% Damage To Undead</Stat>
+			<Stat>Requirements -20%</Stat>
+			<Stat>20% Increased Attack Speed</Stat>
+			<Stat>+50 To Attack Rating Against Undead</Stat>
+			<Stat>+2 To All Skills</Stat>
+			<Stat>All Resistances +75</Stat>
+			<Stat>20% Faster Hit Recovery</Stat>
+			<Stat>11% Mana Stolen Per Hit</Stat>
+			<Stat>25% Enhanced Damage</Stat>
+			<Stat>Hit Blinds Target +33</Stat>
+			<Stat>+2 To Mana After Each Kill</Stat>
+			<Stat>30% Better Chance Of Getting Magic Items</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Smoke</Name>
+		<BaseSockets>2</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Nef</Rune>
+		<Rune>Lum</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>+75% Enhanced Defense</Stat>
+			<Stat>+280 Defense Vs. Missile</Stat>
+			<Stat>All Resistances +30-45 (varies)</Stat>
+			<Stat>20% Faster Hit Recovery</Stat>
+			<Stat>Level 6 Weaken (18 Charges)</Stat>
+			<Stat>+10 To Energy</Stat>
+			<Stat>-1 To Light Radius</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Stealth</Name>
+		<BaseSockets>2</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Tal</Rune>
+		<Rune>Eth</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>5% Faster Run/Walk</Stat>
+			<Stat>10% Faster Cast Rate</Stat>
+			<Stat>10% Faster Hit Recovery</Stat>
+			<Stat>Magic Damage Reduced By 3</Stat>
+			<Stat>+6 To Dexterity</Stat>
+			<Stat>+15 To Maximum Stamina</Stat>
+			<Stat>Poison Resist +30%</Stat>
+			<Stat>Regenerate Mana 15%</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Steel</Name>
+		<BaseSockets>2</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Mace</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Tir</Rune>
+		<Rune>El</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>20% Enhanced Damage</Stat>
+			<Stat>+3 To Minimum Damage</Stat>
+			<Stat>+3 To Maximum Damage</Stat>
+			<Stat>+50 To Attack Rating</Stat>
+			<Stat>50% Chance Of Open Wounds</Stat>
+			<Stat>25% Increased Attack Speed</Stat>
+			<Stat>+2 To Mana After Each Kill</Stat>
+			<Stat>+1 To Light Radius</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Strength</Name>
+		<BaseSockets>2</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Dagger</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Club</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Wand</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<BaseType>Assassin Katar</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Amn</Rune>
+		<Rune>Tir</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>65-95% Enhanced Damage (varies)</Stat>
+			<Stat>25% Chance Of Crushing Blow</Stat>
+			<Stat>7% Life Stolen Per Hit</Stat>
+			<Stat>+2 To Mana After Each Kill</Stat>
+			<Stat>+20 To Strength</Stat>
+			<Stat>+10 To Vitality</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Venom</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Dagger</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Club</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<BaseType>Assassin Katar</BaseType>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<BaseType>Sorceress Orb</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Tal</Rune>
+		<Rune>Dol</Rune>
+		<Rune>Mal</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>20% Chance To Cast Level 23 Poison Nova On Kill</Stat>
+			<Stat>Ignore Target's Defense</Stat>
+			<Stat>+75 Poison Damage Over 5 seconds</Stat>
+			<Stat>7% Mana Stolen Per Hit</Stat>
+			<Stat>-(10-30)% To Enemy Poison Resistance</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>+2-3 To Poison Dagger</Stat>
+			<Stat>25% Enhanced Damage</Stat>
+			<Stat>Level 15 Desecrate (27 Charges)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Wealth</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Lem</Rune>
+		<Rune>Ko</Rune>
+		<Rune>Tir</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>300% Extra Gold From Monsters</Stat>
+			<Stat>100% Better Chance Of Getting Magic Items</Stat>
+			<Stat>+2 To Mana After Each Kill</Stat>
+			<Stat>+10 To Dexterity</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>White</Name>
+		<BaseSockets>2</BaseSockets>
+		<BaseType>Wand</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Dol</Rune>
+		<Rune>Io</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>25% Enhanced Damage</Stat>
+			<Stat>+10 To Vitality</Stat>
+			<Stat>+1 To Poison And Bone Skills (Necromancer Only)</Stat>
+			<Stat>+1-3 To Bone Armor (Necromancer Only) (varies)</Stat>
+			<Stat>+4 To Skeleton Mastery (Necromancer Only)</Stat>
+			<Stat>Magic Damage Reduced By 4</Stat>
+			<Stat>20% Faster Cast Rate</Stat>
+			<Stat>+13 To Mana</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Zephyr</Name>
+		<BaseSockets>2</BaseSockets>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Ort</Rune>
+		<Rune>Eth</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+33-66% Enhanced Damage (varies)</Stat>
+			<Stat>+66 To Attack Rating</Stat>
+			<Stat>Adds 1-50 Lightning Damage</Stat>
+			<Stat>-25% Target Defense</Stat>
+			<Stat>+25 Defense</Stat>
+			<Stat>25% Faster Run/Walk</Stat>
+			<Stat>25% Increased Attack Speed</Stat>
+			<Stat>7% Chance To Cast Level 1 Twister When Struck</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Beast</Name>
+		<BaseSockets>5</BaseSockets>
+		<BaseType>Axe</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Hammer</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Ber</Rune>
+		<Rune>Tir</Rune>
+		<Rune>Um</Rune>
+		<Rune>Mal</Rune>
+		<Rune>Lum</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>Level 8-10 Fanaticism Aura When Equipped (varies)</Stat>
+			<Stat>+40% Increased Attack Speed</Stat>
+			<Stat>+260-290% Enhanced Damage (varies)</Stat>
+			<Stat>20% Chance of Crushing Blow</Stat>
+			<Stat>25% Chance of Open Wounds</Stat>
+			<Stat>+3 To Werebear</Stat>
+			<Stat>+3 To Hunger</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>+3 To Maul</Stat>
+			<Stat>+10 To Energy</Stat>
+			<Stat>+2 To Mana After Each Kill</Stat>
+			<Stat>Level 13 Summon Grizzly (35 Charges)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Bramble</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Ral</Rune>
+		<Rune>Ohm</Rune>
+		<Rune>Sur</Rune>
+		<Rune>Eth</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>Level 15-21 Thorns Aura When Equipped (varies)</Stat>
+			<Stat>+50% Faster Hit Recovery</Stat>
+			<Stat>+30-50% To Poison Skill Damage (varies)</Stat>
+			<Stat>+300 Defense</Stat>
+			<Stat>Increase Maximum Mana 5%</Stat>
+			<Stat>Regenerate Mana 15%</Stat>
+			<Stat>+4% To Maximum Cold Resist</Stat>
+			<Stat>Fire Resist +30%</Stat>
+			<Stat>Poison Resist +100%</Stat>
+			<Stat>+13 Life After Each Kill</Stat>
+			<Stat>Level 13 Spirit of Barbs (33 Charges)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Breath of the Dying</Name>
+		<BaseSockets>6</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Vex</Rune>
+		<Rune>Hel</Rune>
+		<Rune>El</Rune>
+		<Rune>Eld</Rune>
+		<Rune>Zod</Rune>
+		<Rune>Eth</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>50% Chance To Cast Level 20 Poison Nova When You Kill An Enemy</Stat>
+			<Stat>Indestructible</Stat>
+			<Stat>+60% Increased Attack Speed</Stat>
+			<Stat>+330-360% Enhanced Damage (varies)</Stat>
+			<Stat>+200% Damage To Undead</Stat>
+			<Stat>-25% Target Defense</Stat>
+			<Stat>+50 To Attack Rating</Stat>
+			<Stat>+50 To Attack Rating Against Undead</Stat>
+			<Stat>7% Mana Stolen Per Hit</Stat>
+			<Stat>7-9% Life Stolen Per Hit (varies)</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>+10-20 To All Attributes (varies)</Stat>
+			<Stat>+1 To Light Radius</Stat>
+			<Stat>Requirements -20%</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Call To Arms</Name>
+		<BaseSockets>5</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Amn</Rune>
+		<Rune>Ral</Rune>
+		<Rune>Mal</Rune>
+		<Rune>Ist</Rune>
+		<Rune>Ohm</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+1 To All Skills</Stat>
+			<Stat>+40% Increased Attack Speed</Stat>
+			<Stat>+250-290% Enhanced Damage (varies)</Stat>
+			<Stat>Adds 5-30 Fire Damage</Stat>
+			<Stat>7% Life Stolen Per Hit</Stat>
+			<Stat>+2-6 To Battle Command (varies)</Stat>
+			<Stat>+1-6 To Battle Orders (varies)</Stat>
+			<Stat>+1-4 To Battle Cry (varies)</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>Replenish Life +12</Stat>
+			<Stat>30% Better Chance of Getting Magic Items</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Chains of Honor</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Dol</Rune>
+		<Rune>Um</Rune>
+		<Rune>Ber</Rune>
+		<Rune>Ist</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>+2 To All Skills</Stat>
+			<Stat>+200% Damage To Demons</Stat>
+			<Stat>+100% Damage To Undead</Stat>
+			<Stat>8% Life Stolen Per Hit</Stat>
+			<Stat>+70% Enhanced Defense</Stat>
+			<Stat>+20 To Strength</Stat>
+			<Stat>Replenish Life +10</Stat>
+			<Stat>All Resistances +40-60 (varies)</Stat>
+			<Stat>Damage Reduced By 4%</Stat>
+			<Stat>25% Better Chance of Getting Magic Items</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Chaos</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Assassin Katar</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Fal</Rune>
+		<Rune>Ohm</Rune>
+		<Rune>Um</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>18% Chance To Cast Level 21 Frozen Orb On Striking</Stat>
+			<Stat>11% Chance To Cast Level 29 Charged Bolt On Striking</Stat>
+			<Stat>+290-340% Enhanced Damage (varies)</Stat>
+			<Stat>Adds 216-471 Magic Damage</Stat>
+			<Stat>25% Chance of Open Wounds</Stat>
+			<Stat>+3 To Whirlwind</Stat>
+			<Stat>+10 To Strength</Stat>
+			<Stat>+15 Life After Each Demon Kill</Stat>
+			<Stat>Indestructible</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Crescent Moon</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Axe</BaseType>
+		<BaseType>Sword</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Shael</Rune>
+		<Rune>Um</Rune>
+		<Rune>Tir</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>10% Chance To Cast Level 27 Lightning On Striking</Stat>
+			<Stat>7% Chance To Cast Level 13 Static Field On Striking</Stat>
+			<Stat>+20% Increased Attack Speed</Stat>
+			<Stat>+180-220% Enhanced Damage (varies)</Stat>
+			<Stat>Ignore Target's Defense</Stat>
+			<Stat>-35% To Enemy Lightning Resistance</Stat>
+			<Stat>25% Chance of Open Wounds</Stat>
+			<Stat>+9-11 Magic Absorb (varies)</Stat>
+			<Stat>+2 To Mana After Each Kill</Stat>
+			<Stat>Level 18 Summon Spirit Wolf (30 Charges)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Delirium</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Helmet</BaseType>
+		<BaseType>Circlet</BaseType>
+		<BaseType>Barbarian Helmet</BaseType>
+		<BaseType>Druid Pelt</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Lem</Rune>
+		<Rune>Ist</Rune>
+		<Rune>Io</Rune>
+		<Stats>
+			<StatBase>Helms</StatBase>
+			<Stat>1% Chance To Cast Level 50 Delirium (morph) When Struck</Stat>
+			<Stat>6% Chance To Cast Level 14 Mind Blast When Struck</Stat>
+			<Stat>14% Chance To Cast Level 13 Terror When Struck</Stat>
+			<Stat>11% Chance To Cast Level 18 Confuse On Striking</Stat>
+			<Stat>+2 To All Skills</Stat>
+			<Stat>+261 Defense</Stat>
+			<Stat>+10 To Vitality</Stat>
+			<Stat>50% Extra Gold From Monsters</Stat>
+			<Stat>25% Better Chance of Getting Magic Items</Stat>
+			<Stat>Level 17 Attract (60 Charges)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Doom</Name>
+		<BaseSockets>5</BaseSockets>
+		<BaseType>Axe</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<BaseType>Hammer</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Hel</Rune>
+		<Rune>Ohm</Rune>
+		<Rune>Um</Rune>
+		<Rune>Lo</Rune>
+		<Rune>Cham</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>5% Chance To Cast Level 18 Volcano On Striking</Stat>
+			<Stat>Level 12 Holy Freeze Aura When Equipped</Stat>
+			<Stat>+2 To All Skills</Stat>
+			<Stat>+45% Increased Attack Speed</Stat>
+			<Stat>+330-370% Enhanced Damage (varies)</Stat>
+			<Stat>-(40-60)% To Enemy Cold Resistance (varies)</Stat>
+			<Stat>20% Deadly Strike</Stat>
+			<Stat>25% Chance of Open Wounds</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>Freezes Target +3</Stat>
+			<Stat>Requirements -20%</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Duress</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Shael</Rune>
+		<Rune>Um</Rune>
+		<Rune>Thul</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>+40% Faster Hit Recovery</Stat>
+			<Stat>+40-80% Enhanced Damage (varies)</Stat>
+			<Stat>Adds 37-133 Cold Damage 2 sec. Duration (Normal)</Stat>
+			<Stat>15% Chance of Crushing Blow</Stat>
+			<Stat>33% Chance of Open Wounds</Stat>
+			<Stat>+150-200% Enhanced Defense (varies)</Stat>
+			<Stat>-20% Slower Stamina Drain</Stat>
+			<Stat>Cold Resist +45%</Stat>
+			<Stat>Lightning Resist +15%</Stat>
+			<Stat>Fire Resist +15%</Stat>
+			<Stat>Poison Resist +15%</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Enigma</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>jah</Rune>
+		<Rune>Ith</Rune>
+		<Rune>Ber</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>+2 To All Skills</Stat>
+			<Stat>+25% Faster Run/Walk</Stat>
+			<Stat>Blink Charges 3/3 [Recharges 1 per 6 sec]</Stat>
+			<Stat>+500-775 Defense (varies)</Stat>
+			<Stat>+(0.5*Clvl)-(0.75*Clvl) (varies) To Strength (Based On Character Level)</Stat>
+			<Stat>Increase Maximum Life 5%</Stat>
+			<Stat>Damage Reduced By 4%</Stat>
+			<Stat>15% Damage Taken Goes To Mana</Stat>
+			<Stat>+(0.5*Clvl)-(0.75*Clvl) % (varies) Better Chance of Getting Magic Items (Based On Character Level)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Eternity</Name>
+		<BaseSockets>5</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Amn</Rune>
+		<Rune>Ber</Rune>
+		<Rune>Ist</Rune>
+		<Rune>Sol</Rune>
+		<Rune>Sur</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>Indestructible</Stat>
+			<Stat>+260-310% Enhanced Damage (varies)</Stat>
+			<Stat>+9 To Minimum Damage</Stat>
+			<Stat>7% Life Stolen Per Hit</Stat>
+			<Stat>20% Chance of Crushing Blow</Stat>
+			<Stat>+4 Life After Each Kill</Stat>
+			<Stat>Adds 70-71 Damage</Stat>
+			<Stat>Cannot Be Frozen</Stat>
+			<Stat>30% Better Chance Of Getting Magic Items</Stat>
+			<Stat>+3 To Revive</Stat>
+			<Stat>You May Now Summon 3 Additional Revives</Stat>
+			<Stat>10% Reanimate As: Wraith</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Exile</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Paladin Shield</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Vex</Rune>
+		<Rune>Ohm</Rune>
+		<Rune>Ist</Rune>
+		<Rune>Dol</Rune>
+		<Stats>
+			<StatBase>Shields</StatBase>
+			<Stat>15% Chance to Cast level 15 Amplify Damage on Striking</Stat>
+			<Stat>Level 13-16 Defiance Aura When Equipped (varies)</Stat>
+			<Stat>+2 To Offensive Auras (Paladin Only)</Stat>
+			<Stat>+30% Faster Block Rate</Stat>
+			<Stat>Freezes Target</Stat>
+			<Stat>+220-260% Enhanced Defense (varies)</Stat>
+			<Stat>Replenish Life +7</Stat>
+			<Stat>+4% To Maximum Cold Resist</Stat>
+			<Stat>+4% To Maximum Fire Resist</Stat>
+			<Stat>25% Better Chance Of Getting Magic Items</Stat>
+			<Stat>Repairs 1 Durability in 4 Seconds</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Famine</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Axe</BaseType>
+		<BaseType>Hammer</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Fal</Rune>
+		<Rune>Ohm</Rune>
+		<Rune>Ort</Rune>
+		<Rune>Jah</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+30% Increased Attack Speed</Stat>
+			<Stat>+270-320% Enhanced Damage (varies)</Stat>
+			<Stat>Ignore Target's Defense</Stat>
+			<Stat>-(10-20)% To Enemy Lightning Resistance</Stat>
+			<Stat>Adds 150-300 Fire Damage</Stat>
+			<Stat>Adds 151-350 Lightning Damage</Stat>
+			<Stat>Adds 150-300 Cold Damage</Stat>
+			<Stat>-(10-20)% To Enemy Cold Resistance</Stat>
+			<Stat>-(10-20)% To Enemy Fire Resistance</Stat>
+			<Stat>+10 To Strength</Stat>
+			<Stat>Indestructible</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Gloom</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Fal</Rune>
+		<Rune>Um</Rune>
+		<Rune>Pul</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>15% Chance To Cast Level 9 Dim Vision When Struck</Stat>
+			<Stat>+10-30% Faster Hit Recovery (varies)</Stat>
+			<Stat>+200-260% Enhanced Defense (varies)</Stat>
+			<Stat>+10 To Strength</Stat>
+			<Stat>All Resistances +45</Stat>
+			<Stat>Half Freeze Duration</Stat>
+			<Stat>5% Damage Taken Goes To Mana</Stat>
+			<Stat>Magic Damage Reduced by 4-10 (varies)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Hand of Justice</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Sur</Rune>
+		<Rune>Cham</Rune>
+		<Rune>Amn</Rune>
+		<Rune>Lo</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>100% Chance To Cast Level 36 Blaze When You Level-Up</Stat>
+			<Stat>100% Chance To Cast Level 48 Meteor When You Die</Stat>
+			<Stat>Level 12 Holy Fire Aura When Equipped</Stat>
+			<Stat>+33% Increased Attack Speed</Stat>
+			<Stat>+280-330% Enhanced Damage (varies)</Stat>
+			<Stat>Ignore Target's Defense</Stat>
+			<Stat>7% Life Stolen Per Hit</Stat>
+			<Stat>-20% To Enemy Fire Resistance</Stat>
+			<Stat>20% Deadly Strike</Stat>
+			<Stat>+4 Life After Each Kill</Stat>
+			<Stat>Freezes Target +3</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Heart of the Oak</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Staff</BaseType>
+		<BaseType>Mace</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Ko</Rune>
+		<Rune>Vex</Rune>
+		<Rune>Pul</Rune>
+		<Rune>Thul</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+3 To All Skills</Stat>
+			<Stat>+30% Faster Cast Rate</Stat>
+			<Stat>+75% Damage To Demons</Stat>
+			<Stat>+100 To Attack Rating Against Demons</Stat>
+			<Stat>Adds 3-14 Cold Damage, 3 sec. Duration (Normal)</Stat>
+			<Stat>7% Mana Stolen Per Hit</Stat>
+			<Stat>+10 To Dexterity</Stat>
+			<Stat>Replenish Life +20</Stat>
+			<Stat>Increase Maximum Mana 15%</Stat>
+			<Stat>All Resistances +20-30 (varies)</Stat>
+			<Stat>Level 14 Raven (60 Charges)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Kingslayer</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Mal</Rune>
+		<Rune>Um</Rune>
+		<Rune>Gul</Rune>
+		<Rune>Fal</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+30% Increased Attack Speed</Stat>
+			<Stat>+230-270% Enhanced Damage (varies)</Stat>
+			<Stat>-25% Target Defense</Stat>
+			<Stat>20% Bonus To Attack Rating</Stat>
+			<Stat>33% Chance of Crushing Blow</Stat>
+			<Stat>50% Chance of Open Wounds</Stat>
+			<Stat>+3 To Vengeance</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>+10 To Strength</Stat>
+			<Stat>40% Extra Gold From Monsters</Stat>
+			<Stat>Repairs 1 Durability In 10 Seconds</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Passion</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Dol</Rune>
+		<Rune>Ort</Rune>
+		<Rune>Eld</Rune>
+		<Rune>Lem</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+25% Increased Attack Speed</Stat>
+			<Stat>+160-210% Enhanced Damage (varies)</Stat>
+			<Stat>50-80% Bonus To Attack Rating (varies)</Stat>
+			<Stat>+75% Damage To Undead</Stat>
+			<Stat>+50 To Attack Rating Against Undead</Stat>
+			<Stat>Adds 1-50 Lightning Damage</Stat>
+			<Stat>+1 To Berserk</Stat>
+			<Stat>+1 To Zeal</Stat>
+			<Stat>Hit Blinds Target +10</Stat>
+			<Stat>25% Enhanced Damage</Stat>
+			<Stat>75% Extra Gold From Monsters</Stat>
+			<Stat>Level 8 Heart of Wolverine (36 Charges)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Prudence</Name>
+		<BaseSockets>2</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Mal</Rune>
+		<Rune>Tir</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>+25% Faster Hit Recovery</Stat>
+			<Stat>+140-170% Enhanced Defense (varies)</Stat>
+			<Stat>All Resistances +25-35 (varies)</Stat>
+			<Stat>Damage Reduced by 5-13 (varies)</Stat>
+			<Stat>Magic Damage Reduced by 13-17 (varies)</Stat>
+			<Stat>+2 To Mana After Each Kill</Stat>
+			<Stat>+20% Faster Cast Rate</Stat>
+			<Stat>Repairs Durability 1 In 4 Seconds</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Sanctuary</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Shield</BaseType>
+		<BaseType>Paladin Shield</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Ko</Rune>
+		<Rune>Ko</Rune>
+		<Rune>Mal</Rune>
+		<Stats>
+			<StatBase>Shields</StatBase>
+			<Stat>+20% Faster Hit Recovery</Stat>
+			<Stat>+20% Faster Block Rate</Stat>
+			<Stat>20% Increased Chance of Blocking</Stat>
+			<Stat>+130-160% Enhanced Defense (varies)</Stat>
+			<Stat>+20 To Dexterity</Stat>
+			<Stat>All Resistances +35-50 (varies)</Stat>
+			<Stat>Magic Damage Reduced By 7</Stat>
+			<Stat>Cannot Be Frozen</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Splendor</Name>
+		<BaseSockets>2</BaseSockets>
+		<BaseType>Shield</BaseType>
+		<BaseType>Paladin Shield</BaseType>
+		<BaseType>Necromancer Shrunken Head</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Eth</Rune>
+		<Rune>Lum</Rune>
+		<Stats>
+			<StatBase>Shields</StatBase>
+			<Stat>+1 To All Skills</Stat>
+			<Stat>+20-35% Faster Cast Rate (varies)</Stat>
+			<Stat>+20% Faster Block Rate</Stat>
+			<Stat>+60-100% Enhanced Defense (varies)</Stat>
+			<Stat>+10 To Energy</Stat>
+			<Stat>Regenerate Mana 15%</Stat>
+			<Stat>50% Extra Gold From Monsters</Stat>
+			<Stat>15-30% Better Chance of Getting Magic Items (varies</Stat>
+			<Stat>+3 To Light Radius</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Stone</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Shael</Rune>
+		<Rune>Um</Rune>
+		<Rune>Pul</Rune>
+		<Rune>Lum</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>Indestructible</Stat>
+			<Stat>+1 to All Skills</Stat>
+			<Stat>+60% Faster Hit Recovery</Stat>
+			<Stat>+200-290% Enhanced Defense (varies)</Stat>
+			<Stat>+10 - 16 To Strength (varies)</Stat>
+			<Stat>+10 - 16 To Vitality (varies)</Stat>
+			<Stat>+10 To Energy</Stat>
+			<Stat>All Resistances +15</Stat>
+			<Stat>Level 16 Clay Golem (36 Charges)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Wind</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Dagger</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Club</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Wand</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<BaseType>Assassin Katar</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Sur</Rune>
+		<Rune>Sur</Rune>
+		<Rune>El</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>8% Chance To Cast Level 29 Tornado On Striking</Stat>
+			<Stat>+20-30% Faster Run/Walk (varies)</Stat>
+			<Stat>+40% Increased Attack Speed</Stat>
+			<Stat>5% Chance To Cast Level 9 Cyclone Armor On Striking</Stat>
+			<Stat>+320-380% Enhanced Damage (varies)</Stat>
+			<Stat>5% Chance To Cast Level 9 Hurricane When Struck</Stat>
+			<Stat>+50 To Attack Rating</Stat>
+			<Stat>+8 Life After Each Kill</Stat>
+			<Stat>+1 To Light Radius</Stat>
+			<Stat>8% Chance To Cast Level 25 Twister On Striking</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Brand</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Jah</Rune>
+		<Rune>Lo</Rune>
+		<Rune>Mal</Rune>
+		<Rune>Gul</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>35% Chance To Cast Level 14 Amplify Damage When Struck</Stat>
+			<Stat>50% Chance To Cast Level 35 Bone Spear On Striking</Stat>
+			<Stat>+260-340% Enhanced Damage (varies)</Stat>
+			<Stat>Ignore Target's Defense</Stat>
+			<Stat>20% Bonus to Attack Rating</Stat>
+			<Stat>+280-330% Damage To Demons (varies)</Stat>
+			<Stat>20% Deadly Strike</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>Knockback</Stat>
+			<Stat>Fires Explosive Arrows or Bolts (15)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Death</Name>
+		<BaseSockets>5</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Hel</Rune>
+		<Rune>El</Rune>
+		<Rune>Vex</Rune>
+		<Rune>Ort</Rune>
+		<Rune>Gul</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>100% Chance To Cast Level 44 Chain Lightning When You Die</Stat>
+			<Stat>25% Chance To Cast Level 18 Glacial Spike On Attack</Stat>
+			<Stat>Indestructible</Stat>
+			<Stat>+300-355% Enhanced Damage (varies)</Stat>
+			<Stat>20% Bonus To Attack Rating</Stat>
+			<Stat>+50 To Attack Rating</Stat>
+			<Stat>Adds 1-50 Lightning Damage</Stat>
+			<Stat>7% Mana Stolen Per Hit</Stat>
+			<Stat>50% Chance of Crushing Blow</Stat>
+			<Stat>+(0.5 per Character Level) 0.5-49.5% Deadly Strike (Based on Character Level)</Stat>
+			<Stat>+1 To Light Radius</Stat>
+			<Stat>+12 To Blood Golem</Stat>
+			<Stat>Requirements -20%</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Destruction</Name>
+		<BaseSockets>5</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Vex</Rune>
+		<Rune>Lo</Rune>
+		<Rune>Ber</Rune>
+		<Rune>Jah</Rune>
+		<Rune>Ko</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>23% Chance To Cast Level 22 Frost Nova On Striking</Stat>
+			<Stat>5% Chance To Cast Level 33 Molten Boulder On Striking</Stat>
+			<Stat>5% Chance To Cast Level 45 Meteor On Striking</Stat>
+			<Stat>15% Chance To Cast Level 32 Nova On Attack</Stat>
+			<Stat>+300% Enhanced Damage</Stat>
+			<Stat>Ignore Target's Defense</Stat>
+			<Stat>30-40% Increased Attack Speed (varies)</Stat>
+			<Stat>7% Mana Stolen Per Hit</Stat>
+			<Stat>20% Chance Of Crushing Blow</Stat>
+			<Stat>20% Deadly Strike</Stat>
+			<Stat>+10 To Dexterity</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Dragon</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<BaseType>Shield</BaseType>
+		<BaseType>Paladin Shield</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Sur</Rune>
+		<Rune>Lo</Rune>
+		<Rune>Sol</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<StatBase>Shields</StatBase>
+			<Stat>20% Chance to Cast Level 18 Venom When Struck</Stat>
+			<Stat>12% Chance To Cast Level 28 Hydra On Striking</Stat>
+			<Stat>Level 14 Holy Fire Aura When Equipped</Stat>
+			<Stat>+360 Defense</Stat>
+			<Stat>+230 Defense Vs. Missile</Stat>
+			<Stat>+3-5 To All Attributes (varies)</Stat>
+			<Stat>Increase Maximum Mana 5% (Armor Only)</Stat>
+			<Stat>+50 To Mana (Shields Only)</Stat>
+			<Stat>+4% To Maximum Lightning Resist</Stat>
+			<Stat>+0.375-37.125 To Strength (Based on Character Level)</Stat>
+			<Stat>Damage Reduced by 7</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Dream</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Helmet</BaseType>
+		<BaseType>Circlet</BaseType>
+		<BaseType>Barbarian Helmet</BaseType>
+		<BaseType>Druid Pelt</BaseType>
+		<BaseType>Shield</BaseType>
+		<BaseType>Paladin Shield</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Io</Rune>
+		<Rune>Jah</Rune>
+		<Rune>Pul</Rune>
+		<Stats>
+			<StatBase>Helms</StatBase>
+			<StatBase>Shields</StatBase>
+			<Stat>10% Chance To Cast Level 15 Confuse When Struck</Stat>
+			<Stat>Level 13 Holy Shock Aura When Equipped</Stat>
+			<Stat>+20-30% Faster Hit Recovery (varies)</Stat>
+			<Stat>+30% Enhanced Defense</Stat>
+			<Stat>+150-220 Defense (varies)</Stat>
+			<Stat>+10 To Vitality</Stat>
+			<Stat>Increase Maximum Life 5% (Helms Only)</Stat>
+			<Stat>+50 To Life (Shields Only)</Stat>
+			<Stat>+0.625-61.875 To Mana (Based On Character Level)</Stat>
+			<Stat>All Resistances +5-20 (varies)</Stat>
+			<Stat>12-25% Better Chance of Getting Magic Items (varies)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Edge</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Tir</Rune>
+		<Rune>Tal</Rune>
+		<Rune>Amn</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>Level 15 Thorns Aura When Equipped</Stat>
+			<Stat>+35% Increased Attack Speed</Stat>
+			<Stat>+320-380% Damage To Demons (varies)</Stat>
+			<Stat>+280% Damage To Undead</Stat>
+			<Stat>+75 Poison Damage Over 5 Seconds</Stat>
+			<Stat>7% Life Stolen Per Hit</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>+5-10 To All Attributes (varies)</Stat>
+			<Stat>+2 To Mana After Each Kill</Stat>
+			<Stat>Reduces All Vendor Prices 15%!!!</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Faith</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Ohm</Rune>
+		<Rune>Jah</Rune>
+		<Rune>Lem</Rune>
+		<Rune>Eld</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>Level 12-15 Fanaticism Aura When Equipped (varies)</Stat>
+			<Stat>+200-250% Enhanced Damage (varies)</Stat>
+			<Stat>Ignore Target's Defense</Stat>
+			<Stat>300% Bonus To Attack Rating</Stat>
+			<Stat>+75% Damage To Undead</Stat>
+			<Stat>+50 To Attack Rating Against Undead</Stat>
+			<Stat>+120 Fire Damage</Stat>
+			<Stat>All Resistances +15</Stat>
+			<Stat>4% Reanimate As: Returned</Stat>
+			<Stat>75% Extra Gold From Monsters</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Fortitude</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>El</Rune>
+		<Rune>Sol</Rune>
+		<Rune>Dol</Rune>
+		<Rune>Lo</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+25% Faster Cast Rate</Stat>
+			<Stat>+200% Enhanced Damage</Stat>
+			<Stat>+9 To Minimum Damage</Stat>
+			<Stat>+50 To Attack Rating</Stat>
+			<Stat>20% Deadly Strike</Stat>
+			<Stat>25% Enhanced Damage</Stat>
+			<Stat>+200% Enhanced Defense</Stat>
+			<Stat>+X To Life (Based on Character Level)</Stat>
+			<Stat>All Resistances +25-30 (varies)</Stat>
+			<Stat>12% Damage Taken Goes To Mana</Stat>
+			<Stat>+1 To Light Radius</Stat>
+			<StatBase>Body Armor</StatBase>
+			<Stat>+25% Faster Cast Rate</Stat>
+			<Stat>+200% Enhanced Damage</Stat>
+			<Stat>+200% Enhanced Defense</Stat>
+			<Stat>+15 Defense</Stat>
+			<Stat>+X To Life (Based on Character Level)</Stat>
+			<Stat>Replenish Life +10</Stat>
+			<Stat>+4% To Maximum Lightning Resist</Stat>
+			<Stat>All Resistances +25-30 (varies)</Stat>
+			<Stat>Damage Reduced By 7</Stat>
+			<Stat>12% Damage Taken Goes To Mana</Stat>
+			<Stat>+1 To Light Radius</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Grief</Name>
+		<BaseSockets>5</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Eth</Rune>
+		<Rune>Tir</Rune>
+		<Rune>Lo</Rune>
+		<Rune>Mal</Rune>
+		<Rune>Ral</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>35% Chance To Cast Level 15 Venom On Striking</Stat>
+			<Stat>+30-40% Increased Attack Speed (varies)</Stat>
+			<Stat>240-280 to 260-300 to Minimum and Maximum Damage (varies)</Stat>
+			<Stat>-25% Target Defense</Stat>
+			<Stat>+(1.875 per character level) 1.875-185.625% Damage To Demons (Based on Character Level)</Stat>
+			<Stat>Adds 5-30 Fire Damage</Stat>
+			<Stat>-20-25% To Enemy Poison Resistance (varies)</Stat>
+			<Stat>20% Deadly Strike</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>+2 To Mana After Each Kill</Stat>
+			<Stat>+10-15 Life After Each Kill (varies)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Harmony</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Tir</Rune>
+		<Rune>Ith</Rune>
+		<Rune>Sol</Rune>
+		<Rune>Ko</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>Level 10 Vigor Aura When Equipped</Stat>
+			<Stat>+200-275% Enhanced Damage (varies)</Stat>
+			<Stat>+9 To Minimum Damage</Stat>
+			<Stat>+9 To Maximum Damage</Stat>
+			<Stat>Adds 55-160 Lightning Damage</Stat>
+			<Stat>Adds 55-160 Fire Damage</Stat>
+			<Stat>Adds 55-160 Cold Damage</Stat>
+			<Stat>+2-6 To Valkyrie (varies)</Stat>
+			<Stat>+10 To Dexterity</Stat>
+			<Stat>Regenerate Mana 20%</Stat>
+			<Stat>+2 To Mana After Each Kill</Stat>
+			<Stat>+2 To Light Radius</Stat>
+			<Stat>Level 20 Revive (25 Charges)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Ice</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Amn</Rune>
+		<Rune>Shael</Rune>
+		<Rune>Jah</Rune>
+		<Rune>Lo</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>100% Chance To Cast Level 40 Blizzard When You Level-up</Stat>
+			<Stat>20% Chance To Cast Level 32 Frost Nova On Striking</Stat>
+			<Stat>Level 18 Holy Freeze Aura When Equipped</Stat>
+			<Stat>+20% Increased Attack Speed</Stat>
+			<Stat>+140-210% Enhanced Damage (varies)</Stat>
+			<Stat>Ignore Target's Defense</Stat>
+			<Stat>+25-30% To Cold Skill Damage (varies)</Stat>
+			<Stat>-20% To Enemy Cold Resistance</Stat>
+			<Stat>7% Life Stolen Per Hit</Stat>
+			<Stat>20% Deadly Strike</Stat>
+			<Stat>3.125-309.375 Extra Gold From Monsters (Based on Character Level)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Infinity</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Ber</Rune>
+		<Rune>Mal</Rune>
+		<Rune>Ber</Rune>
+		<Rune>Ist</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>50% Chance To Cast Level 20 Lightning When You Kill An Enemy</Stat>
+			<Stat>Level 12 Conviction Aura When Equipped</Stat>
+			<Stat>+35% Faster Run/Walk</Stat>
+			<Stat>+255-325% Enhanced Damage (varies)</Stat>
+			<Stat>-(45-55)% To Enemy Lightning Resistance (varies)</Stat>
+			<Stat>40% Chance of Crushing Blow</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>0.5-49.5 To Vitality (Based on Character Level)</Stat>
+			<Stat>30% Better Chance of Getting Magic Items</Stat>
+			<Stat>Level 21 Cyclone Armor (30 Charges)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Insight</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<BaseType>Staff</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Ral</Rune>
+		<Rune>Tir</Rune>
+		<Rune>Tal</Rune>
+		<Rune>Sol</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>Level 12-17 Meditation Aura When Equipped (varies)</Stat>
+			<Stat>+35% Faster Cast Rate</Stat>
+			<Stat>+200-260% Enhanced Damage (varies)</Stat>
+			<Stat>+9 To Minimum Damage</Stat>
+			<Stat>180-250% Bonus to Attack Rating (varies)</Stat>
+			<Stat>Adds 5-30 Fire Damage</Stat>
+			<Stat>+75 Poison Damage Over 5 Seconds</Stat>
+			<Stat>+1-6 To Critical Strike (varies)</Stat>
+			<Stat>+5 To All Attributes</Stat>
+			<Stat>+2 To Mana After Each Kill</Stat>
+			<Stat>23% Better Chance of Getting Magic Items</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Last Wish</Name>
+		<BaseSockets>6</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Axe</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Jah</Rune>
+		<Rune>Mal</Rune>
+		<Rune>Jah</Rune>
+		<Rune>Sur</Rune>
+		<Rune>Jah</Rune>
+		<Rune>Ber</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>6% Chance To Cast Level 11 Fade When Struck</Stat>
+			<Stat>10% Chance To Cast Level 18 Life Tap On Striking</Stat>
+			<Stat>20% Chance To Cast Level 20 Charged Bolt On Attack</Stat>
+			<Stat>Level 17 Might Aura When Equipped</Stat>
+			<Stat>+330-375% Enhanced Damage (varies)</Stat>
+			<Stat>Ignore Target's Defense</Stat>
+			<Stat>60-70% Chance of Crushing Blow (varies)</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>+4 Life After Each Kill</Stat>
+			<Stat>+(0.5 per character level) 0.5-49.5% Chance of Getting Magic Items (Based on Character Level)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Lawbringer</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Scepter</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Amn</Rune>
+		<Rune>Lem</Rune>
+		<Rune>Ko</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>20% Chance To Cast Level 15 Decrepify On Striking</Stat>
+			<Stat>Level 16-18 Sanctuary Aura When Equipped (varies)</Stat>
+			<Stat>-50% Target Defense</Stat>
+			<Stat>Adds 150-210 Fire Damage</Stat>
+			<Stat>Adds 130-180 Cold Damage</Stat>
+			<Stat>7% Life Stolen Per Hit</Stat>
+			<Stat>Slain Monsters Rest In Peace</Stat>
+			<Stat>+200-250 Defense Vs. Missile (varies)</Stat>
+			<Stat>+10 To Dexterity</Stat>
+			<Stat>75% Extra Gold From Monsters</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Oath</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Mace</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Shael</Rune>
+		<Rune>Pul</Rune>
+		<Rune>Mal</Rune>
+		<Rune>Lum</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>30% Chance To Cast Level 20 Bone Spirit On Striking</Stat>
+			<Stat>Indestructible</Stat>
+			<Stat>+50% Increased Attack Speed</Stat>
+			<Stat>+210-340% Enhanced Damage (varies)</Stat>
+			<Stat>+75% Damage To Demons</Stat>
+			<Stat>+100 To Attack Rating Against Demons</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>+10 To Energy</Stat>
+			<Stat>+10-15 Magic Absorb (varies)</Stat>
+			<Stat>+8 to Heart of the Wolverine (only +3 for Druids)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Obedience</Name>
+		<BaseSockets>5</BaseSockets>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Hel</Rune>
+		<Rune>Ko</Rune>
+		<Rune>Thul</Rune>
+		<Rune>Eth</Rune>
+		<Rune>Fal</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>30% Chance To Cast Level 21 Enchant When You Kill An Enemy</Stat>
+			<Stat>40% Faster Hit Recovery</Stat>
+			<Stat>+370% Enhanced Damage</Stat>
+			<Stat>-25% Target Defense</Stat>
+			<Stat>Adds 3-14 Cold Damage 3 Second Duration (Normal)</Stat>
+			<Stat>-25% To Enemy Fire Resistance</Stat>
+			<Stat>40% Chance of Crushing Blow</Stat>
+			<Stat>+200-300 Defense (varies)</Stat>
+			<Stat>+10 To Strength</Stat>
+			<Stat>+10 To Dexterity</Stat>
+			<Stat>All Resistances +20-30 (varies)</Stat>
+			<Stat>Requirements -20%</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Phoenix</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<BaseType>Shield</BaseType>
+		<BaseType>Paladin Shield</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Vex</Rune>
+		<Rune>Vex</Rune>
+		<Rune>Lo</Rune>
+		<Rune>Jah</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>100% Chance To Cast level 40 Blaze When You Level-up</Stat>
+			<Stat>10% Chance To Cast Level 22 Fireball On Striking</Stat>
+			<Stat>Level 10-15 Redemption Aura When Equipped (varies)</Stat>
+			<Stat>+300-350% Enhanced Damage (varies)</Stat>
+			<Stat>Ignores Target's Defense</Stat>
+			<Stat>14% Mana Stolen Per Hit</Stat>
+			<Stat>-28% To Enemy Fire Resistance</Stat>
+			<Stat>20% Deadly Strike</Stat>
+			<Stat>+350-400 Defense Vs. Missile (varies)</Stat>
+			<Stat>+15-21 Fire Absorb (varies)</Stat>
+			<StatBase>Shields</StatBase>
+			<Stat>100% Chance To Cast level 40 Blaze When You Level-up</Stat>
+			<Stat>10% Chance To Cast Level 22 Fireball On Striking</Stat>
+			<Stat>Level 10-15 Redemption Aura When Equipped (varies)</Stat>
+			<Stat>+350-400 Defense Vs. Missile (varies)</Stat>
+			<Stat>+300-350% Enhanced Damage (varies)</Stat>
+			<Stat>-28% To Enemy Fire Resistance</Stat>
+			<Stat>+50 To Life</Stat>
+			<Stat>+4% To Maximum Lightning Resist</Stat>
+			<Stat>+8% To Maximum Fire Resist</Stat>
+			<Stat>+15-21 Fire Absorb (varies)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Pride</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Cham</Rune>
+		<Rune>Sur</Rune>
+		<Rune>Io</Rune>
+		<Rune>Lo</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>25% Chance To Cast Level 17 Fire Wall When Struck</Stat>
+			<Stat>Level 16-20 Concentration Aura When Equipped (varies)</Stat>
+			<Stat>260-300% Bonus To Attack Rating (varies)</Stat>
+			<Stat>+4-396% Damage To Demons (Based on Character Level)</Stat>
+			<Stat>Adds 50-280 Lightning Damage</Stat>
+			<Stat>20% Deadly Strike</Stat>
+			<Stat>+4 Life After Each Kill</Stat>
+			<Stat>Freezes Target +3</Stat>
+			<Stat>+10 To Vitality</Stat>
+			<Stat>Replenish Life +8</Stat>
+			<Stat>1.875-185.625% Extra Gold From Monsters (Based on Character Level)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Rift</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<BaseType>Scepter</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Hel</Rune>
+		<Rune>Ko</Rune>
+		<Rune>Lem</Rune>
+		<Rune>Gul</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>20% Chance To Cast Level 21 Tornado On Striking</Stat>
+			<Stat>16% Chance To Cast Level 21 Frozen Orb On Attack</Stat>
+			<Stat>20% Bonus To Attack Rating</Stat>
+			<Stat>Adds 160-250 Magic Damage</Stat>
+			<Stat>Adds 60-180 Fire Damage</Stat>
+			<Stat>+15-20 To All Stats (varies)</Stat>
+			<Stat>+10 To Dexterity</Stat>
+			<Stat>38% Damage Taken Goes To Mana</Stat>
+			<Stat>75% Extra Gold From Monsters</Stat>
+			<Stat>Level 15 Iron Maiden (40 Charges)</Stat>
+			<Stat>Requirements -20%</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Spirit</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Shield</BaseType>
+		<BaseType>Paladin Shield</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Tal</Rune>
+		<Rune>Thul</Rune>
+		<Rune>Ort</Rune>
+		<Rune>Amn</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>+1 To All Skills</Stat>
+			<Stat>+25-35% Faster Cast Rate (varies)</Stat>
+			<Stat>+25% Faster Hit Recovery</Stat>
+			<Stat>Adds 1-50 Lightning Damage</Stat>
+			<Stat>Adds 3-14 Cold Damage 3 Second Duration (Normal)</Stat>
+			<Stat>+75 Poison Damage Over 5 Seconds</Stat>
+			<Stat>7% Life Stolen Per Hit</Stat>
+			<Stat>-25% Requirements</Stat>
+			<Stat>+11-22 To Vitality (varies)</Stat>
+			<Stat>+59-82 To Mana (varies)</Stat>
+			<Stat>+3-8 Magic Absorb (varies)</Stat>
+			<StatBase>Shields</StatBase>
+			<Stat>+1 To All Skills</Stat>
+			<Stat>+25-35% Faster Cast Rate (varies)</Stat>
+			<Stat>+25% Faster Hit Recovery</Stat>
+			<Stat>+250 Defense Vs. Missile (Probably -25% Requirements)</Stat>
+			<Stat>+11-22 To Vitality (varies)</Stat>
+			<Stat>+59-82 To Mana (varies)</Stat>
+			<Stat>Cold Resist +35%</Stat>
+			<Stat>Lightning Resist +35%</Stat>
+			<Stat>Poison Resist +35%</Stat>
+			<Stat>+3-8 Magic Absorb (varies)</Stat>
+			<Stat>Attacker Takes Damage of 14 </Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Voice of Reason</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Mace</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Lem</Rune>
+		<Rune>Ko</Rune>
+		<Rune>EL</Rune>
+		<Rune>Eld</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>15% Chance To Cast Level 16 Frozen Orb On Striking</Stat>
+			<Stat>18% Chance To Cast Level 20 Ice Blast On Striking</Stat>
+			<Stat>+50 To Attack Rating</Stat>
+			<Stat>+220-350% Damage To Demons</Stat>
+			<Stat>+355-375% Damage To Undead (varies)</Stat>
+			<Stat>+50 To Attack Rating Against Undead</Stat>
+			<Stat>Adds 200-320 Cold Damage</Stat>
+			<Stat>-24% To Enemy Cold Resistance</Stat>
+			<Stat>+10 To Dexterity</Stat>
+			<Stat>Cannot Be Frozen</Stat>
+			<Stat>75% Extra Gold From Monsters</Stat>
+			<Stat>+1 To Light Radius</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Wrath</Name>
+		<BaseSockets>4</BaseSockets>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<Ladder>True</Ladder>
+		<Rune>Pul</Rune>
+		<Rune>Lum</Rune>
+		<Rune>Ber</Rune>
+		<Rune>Mal</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>30% Chance To Cast Level 18 Amplify Damage On Striking</Stat>
+			<Stat>30-45% Increased Attack Speed (varies)</Stat>
+			<Stat>+375% Damage To Demons</Stat>
+			<Stat>+100 To Attack Rating Against Demons</Stat>
+			<Stat>+250-300% Damage To Undead (varies)</Stat>
+			<Stat>Adds 85-120 Magic Damage</Stat>
+			<Stat>Adds 41-240 Lightning Damage</Stat>
+			<Stat>20% Chance of Crushing Blow</Stat>
+			<Stat>Prevent Monster Heal</Stat>
+			<Stat>+10 To Energy</Stat>
+			<Stat>Cannot Be Frozen</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Bone (Necromancer)</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Sol</Rune>
+		<Rune>Um</Rune>
+		<Rune>Um</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>15% Chance To Cast level 10 Bone Armor When Struck</Stat>
+			<Stat>15% Chance To Cast level 10 Bone Spear On Striking</Stat>
+			<Stat>+2 To Necromancer Skill Levels</Stat>
+			<Stat>+100-150 To Mana (varies)</Stat>
+			<Stat>All Resistances +30</Stat>
+			<Stat>Damage Reduced By 7</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Enlightenment (Sorceress)</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Pul</Rune>
+		<Rune>Ral</Rune>
+		<Rune>Sol</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>5% Chance To Cast Level 15 Blaze When Struck</Stat>
+			<Stat>5% Chance To Cast level 15 Fire Ball On Striking</Stat>
+			<Stat>+1-2 To Sorceress Skill Levels (varies)</Stat>
+			<Stat>+1 To Warmth</Stat>
+			<Stat>+30% Enhanced Defense</Stat>
+			<Stat>Fire Resist +30%</Stat>
+			<Stat>Damage Reduced By 7</Stat>
+			<Stat>10% Faster Cast Rate</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Myth (Barbarian)</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Hel</Rune>
+		<Rune>Amn</Rune>
+		<Rune>Nef</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>3% Chance To Cast Level 1 Howl When Struck</Stat>
+			<Stat>10% Chance To Cast Level 1 Taunt On Striking</Stat>
+			<Stat>+1-2 To Barbarian Skill Levels (varies)</Stat>
+			<Stat>+30 Defense Vs. Missile</Stat>
+			<Stat>Replenish Life +10</Stat>
+			<Stat>Attacker Takes Damage of 2 to 3 per level (varies) 2-3 to 198-297 (varies)</Stat>
+			<Stat>Requirements -15%</Stat>
+			<Stat>+1-3 Mana After Each Kill (varies)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Peace (Amazon)</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Shael</Rune>
+		<Rune>Thul</Rune>
+		<Rune>Amn</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>2% Chance To Cast level 15 Valkyrie On Striking</Stat>
+			<Stat>+2 To Amazon Skill Levels</Stat>
+			<Stat>+20% Faster Hit Recovery</Stat>
+			<Stat>+2 To Critical Strike</Stat>
+			<Stat>Cold Resist +30%</Stat>
+			<Stat>Attacker Takes Damage of 14</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Principle (Paladin)</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Ral</Rune>
+		<Rune>Pul</Rune>
+		<Rune>Eld</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>100% Chance To Cast Level 5 Holy Bolt On Striking</Stat>
+			<Stat>+2 To Paladin Skill Levels</Stat>
+			<Stat>+50-80% Damage to Undead (varies)</Stat>
+			<Stat>+50-100 Life (varies)</Stat>
+			<Stat>15% Slower Stamina Drain</Stat>
+			<Stat>+30% Enhanced Defense</Stat>
+			<Stat>Fire Resist +30%</Stat>
+			<Stat>+50-80% Enhanced Damage to Demons</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Rain (Druid)</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Ort</Rune>
+		<Rune>Mal</Rune>
+		<Rune>Ith</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>5% Chance To Cast Level 15 Cyclone Armor When Struck</Stat>
+			<Stat>5% Chance To Cast Level 15 Twister On Striking</Stat>
+			<Stat>+1-2 To Druid Skill Levels (varies)</Stat>
+			<Stat>+100-150 To Mana (varies)</Stat>
+			<Stat>Lightning Resist +30%</Stat>
+			<Stat>Magic Damage Reduced By 7</Stat>
+			<Stat>15% Damage Taken Goes to Mana</Stat>
+			<Stat>+1 to Summoning Skills (Druid Only)</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Treachery (Assassin)</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Body Armor</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Shael</Rune>
+		<Rune>Thul</Rune>
+		<Rune>Lem</Rune>
+		<Stats>
+			<StatBase>Armors</StatBase>
+			<Stat>30% Chance to Cast level 15 Lesser Fade When Struck</Stat>
+			<Stat>25% Chance To Cast level 15 Venom On Striking</Stat>
+			<Stat>+2 To Assassin Skills</Stat>
+			<Stat>+45% Increased Attack Speed</Stat>
+			<Stat>+20% Faster Hit Recovery</Stat>
+			<Stat>Cold Resist +30%</Stat>
+			<Stat>50% Extra Gold From Monsters</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Pattern</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Assassin Katar</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Tal</Rune>
+		<Rune>Ort</Rune>
+		<Rune>Tir</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>10% Bonus to Attack Rating</Stat>
+			<Stat>+40-80% Enhanced damage (varies)</Stat>
+			<Stat>17-62 Added Fire Damage</Stat>
+			<Stat>+15% Resist All</Stat>
+			<Stat>+6 to Strength</Stat>
+			<Stat>+6 to Dexterity</Stat>
+			<Stat>+30% Faster Block Rate</Stat>
+			<Stat>+2 to mana after each kill</Stat>
+			<Stat>1-50 added Lightning damage</Stat>
+		</Stats>
+	</RuneWord>
+	<RuneWord>
+		<Name>Plague</Name>
+		<BaseSockets>3</BaseSockets>
+		<BaseType>Sword</BaseType>
+		<BaseType>Dagger</BaseType>
+		<BaseType>Axe</BaseType>
+		<BaseType>Club</BaseType>
+		<BaseType>Mace</BaseType>
+		<BaseType>Hammer</BaseType>
+		<BaseType>Scepter</BaseType>
+		<BaseType>Staff</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Polearm</BaseType>
+		<BaseType>Amazon Spear</BaseType>
+		<BaseType>Assassin Katar</BaseType>
+		<BaseType>Bow</BaseType>
+		<BaseType>Crossbow</BaseType>
+		<BaseType>Amazon Bow</BaseType>
+		<BaseType>Sorceress Orb</BaseType>
+		<Ladder>False</Ladder>
+		<Rune>Cham</Rune>
+		<Rune>Fal</Rune>
+		<Rune>Um</Rune>
+		<Stats>
+			<StatBase>Weapons</StatBase>
+			<Stat>25% Chance to Cast Level 15 Poison Nova On Striking</Stat>
+			<Stat>20% Chance to Cast Level 12 Lower Resist When Struck</Stat>
+			<Stat>Level 13-17 Cleansing Aura When Equipped (varies)</Stat>
+			<Stat>+1-2 All Skills</Stat>
+			<Stat>+260-380% Damage to Demons (varies)</Stat>
+			<Stat>-23% To Enemy Poison Resistance</Stat>
+			<Stat>0.3% (0-29.7) Deadly Strike (Based on Character Level)</Stat>
+			<Stat>Adds 5-30 Fire Damage</Stat>
+			<Stat>25% Chance of Open Wounds</Stat>
+			<Stat>Freezes Target +3</Stat>
+			<Stat>+10 to Strength</Stat>
+		</Stats>
+	</RuneWord>
+</RuneWords>

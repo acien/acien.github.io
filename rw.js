@@ -68,7 +68,7 @@ function formatResults(xml){
 	var y = xmlDoc.getElementsByTagName("RuneWord");
 
 	//maybe add a check for null return if errors out
-	var x = strFilter(filterByBase(filterByRunes(y)));
+	var x = strFilter(filterBySockets(filterByBase(filterByRunes(y))));
 
 	// output results
 	for (var i = 0; i < x.length; i++) {
@@ -121,6 +121,39 @@ function strFilter(rwList){
 	}
 	else{
 		filteredList = rwList;
+	}
+	return filteredList;
+}
+function filterBySockets(rwList){
+	var filteredList = [];
+	var z = 0;
+	if(document.getElementById("anySockets").checked){
+		filteredList = rwList;
+	}else{
+		for (var i = 0; i < rwList.length; i++) {
+			var sockets = rwList[i].getElementsByTagName("BaseSockets")[0].childNodes[0].nodeValue.trim();
+	 		if(document.getElementById("twoSockets").checked && sockets == 2){
+					filteredList[z] = rwList[i];
+					z++;
+			}
+			else if(document.getElementById("threeSockets").checked && sockets == 3){
+					filteredList[z] = rwList[i];
+					z++;
+			}
+			else if(document.getElementById("fourSockets").checked && sockets == 4){
+					filteredList[z] = rwList[i];
+					z++;
+			}
+			else if(document.getElementById("fiveSockets").checked && sockets == 5){
+					filteredList[z] = rwList[i];
+					z++;
+			}
+			else if(document.getElementById("sixSockets").checked && sockets == 6){
+					filteredList[z] = rwList[i];
+					z++;
+			}
+			
+		}
 	}
 	return filteredList;
 }
@@ -458,175 +491,175 @@ function getRunesSelected(rune){
 
 function getBaseSelected(base){
 
-	if(base.toLowerCase() == "body armor"){
+	if(base.toLowerCase().trim() == "body armor"){
 		if(!document.getElementById("bodyArmor").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "shield"){
+	if(base.toLowerCase().trim() == "shield"){
 		if(!document.getElementById("shield").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "helmet"){
+	if(base.toLowerCase().trim() == "helmet"){
 		if(!document.getElementById("helmet").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "circlet"){
+	if(base.toLowerCase().trim() == "circlet"){
 		if(!document.getElementById("circlet").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "barbarian helmet"){
+	if(base.toLowerCase().trim() == "barbarian helmet"){
 		if(!document.getElementById("barbHelm").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "druid pelt"){
+	if(base.toLowerCase().trim() == "druid pelt"){
 		if(!document.getElementById("druidPelt").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "paladin shield"){
+	if(base.toLowerCase().trim() == "paladin shield"){
 		if(!document.getElementById("pallyShield").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "necromancer shrunken head"){
+	if(base.toLowerCase().trim() == "necromancer shrunken head"){
 		if(!document.getElementById("necroHead").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "sword"){
+	if(base.toLowerCase().trim() == "sword"){
 		if(!document.getElementById("sword").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "dagger"){
+	if(base.toLowerCase().trim() == "dagger"){
 		if(!document.getElementById("dagger").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "axe"){
+	if(base.toLowerCase().trim() == "axe"){
 		if(!document.getElementById("axe").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "club"){
+	if(base.toLowerCase().trim() == "club"){
 		if(!document.getElementById("club").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "mace"){
+	if(base.toLowerCase().trim() == "mace"){
 		if(!document.getElementById("mace").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "hammer"){
+	if(base.toLowerCase().trim() == "hammer"){
 		if(!document.getElementById("hammer").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "scepter"){
+	if(base.toLowerCase().trim() == "scepter"){
 		if(!document.getElementById("scepter").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "staff"){
+	if(base.toLowerCase().trim() == "staff"){
 		if(!document.getElementById("staff").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "wand"){
+	if(base.toLowerCase().trim() == "wand"){
 		if(!document.getElementById("wand").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "spear"){
+	if(base.toLowerCase().trim() == "spear"){
 		if(!document.getElementById("spear").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "polearm"){
+	if(base.toLowerCase().trim() == "polearm"){
 		if(!document.getElementById("polearm").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "bow"){
+	if(base.toLowerCase().trim() == "bow"){
 		if(!document.getElementById("bow").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "crossbow"){
+	if(base.toLowerCase().trim() == "crossbow"){
 		if(!document.getElementById("crossbow").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "amazon bow"){
+	if(base.toLowerCase().trim() == "amazon bow"){
 		if(!document.getElementById("zonBow").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "amazon spear"){
+	if(base.toLowerCase().trim() == "amazon spear"){
 		if(!document.getElementById("zonSpear").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "assassin katar"){
+	if(base.toLowerCase().trim() == "assassin katar"){
 		if(!document.getElementById("sinKatar").checked){
 			return false;
 		}else{
 			return true;
 		}
 	}
-	if(base.toLowerCase() == "sorceress orb"){
+	if(base.toLowerCase().trim() == "sorceress orb"){
 		if(!document.getElementById("orb").checked){
 			return false;
 		}else{

@@ -5,12 +5,10 @@
 		<script src="rw.js"></script>
 	</head>
 	<body onload="pageLoad()">
-		<center>
 			<form>
 				<table id= "filters">
 					<tr>
 						<th>Runes</th>
-
 						<th>Base Types</th>
 					</tr>
 					<tr>
@@ -170,7 +168,11 @@
 										<label for="zod">Zod</label>
 									</td>
 								</tr>
-								
+								<tr>
+									<td colspan="3">
+										<a id="selectAll" title="Select All Runes" href="#" onclick="SelectAllRunes();return false;">Select All</a> / <a id="deselectAll" title="Deselect All Runes" href="#" onclick="DeselectAllRunes();return false;">Deselect All</a>
+									</td>
+								</tr>
 							</table>
 						</td>
 						<td>
@@ -182,98 +184,148 @@
 								<tr>
 									<td>
 										<input type="checkbox" name="bodyArmor" id="bodyArmor" class="armor">
-										<label for="bodyArmor">Body Armor</label><br />
+										<label for="bodyArmor">Body Armor</label>
+										<br />
 										<input type="checkbox" name="shield" id="shield" class="armor">
-										<label for="shield">Shield</label><br />
+										<label for="shield">Shield</label>
+										<br />
 										<input type="checkbox" name="helmet" id="helmet" class="armor">
-										<label for="helmet">Helmet</label><br />
+										<label for="helmet">Helmet</label>
+										<br />
 										<input type="checkbox" name="circlet" id="circlet" class="armor">
-										<label for="circlet">Circlet</label><br />
+										<label for="circlet">Circlet</label>
+										<br />
 										<input type="checkbox" name="barbHelm" id="barbHelm" class="armor">
-										<label for="barbHelm">Barbarian Helmet</label><br />
+										<label for="barbHelm">Barbarian Helmet</label>
+										<br />
 										<input type="checkbox" name="druidPelt" id="druidPelt" class="armor">
-										<label for="druidPelt">Druid Pelt</label><br />
+										<label for="druidPelt">Druid Pelt</label>
+										<br />
 										<input type="checkbox" name="pallyShield" id="pallyShield" class="armor">
-										<label for="pallyShield">Paladin Shield</label><br />
+										<label for="pallyShield">Paladin Shield</label>
+										<br />
 										<input type="checkbox" name="necroHead" id="necroHead" class="armor">
-										<label for="necroHead">Necromancer Shrunken Head</label><br />
+										<label for="necroHead">Necromancer Shrunken Head</label>
+										<br />
 									</td>
 									<td>
 										<table>
 											<tr>
 												<td>
 													<input type="checkbox" name="sword" id="sword" class="weapon">
-													<label for="sword">Sword</label><br />
+													<label for="sword">Sword</label>
+													<br />
 													<input type="checkbox" name="dagger" id="dagger" class="weapon">
-													<label for="dagger">Dagger</label><br />
+													<label for="dagger">Dagger</label>
+													<br />
 													<input type="checkbox" name="axe" id="axe" class="weapon">
-													<label for="axe">Axe</label><br />
+													<label for="axe">Axe</label>
+													<br />
 													<input type="checkbox" name="club" id="club" class="weapon">
-													<label for="club">Club</label><br />
+													<label for="club">Club</label>
+													<br />
 													<input type="checkbox" name="mace" id="mace" class="weapon">
-													<label for="mace">Mace</label><br />
+													<label for="mace">Mace</label>
+													<br />
 													<input type="checkbox" name="hammer" id="hammer" class="weapon">
-													<label for="hammer">Hammer</label><br />
+													<label for="hammer">Hammer</label>
+													<br />
 													<input type="checkbox" name="scepter" id="scepter" class="weapon">
-													<label for="scepter">Scepter</label><br />
+													<label for="scepter">Scepter</label>
+													<br />
 													<input type="checkbox" name="staff" id="staff" class="weapon">
-													<label for="staff">Staff</label><br />
+													<label for="staff">Staff</label>
+													<br />
 													<input type="checkbox" name="wand" id="wand" class="weapon">
-													<label for="wand">Wand</label><br />
+													<label for="wand">Wand</label>
+													<br />
 												</td>
 												<td>
 													<input type="checkbox" name="spear" id="spear" class="weapon">
-													<label for="spear">Spear</label><br />
+													<label for="spear">Spear</label>
+													<br />
 													<input type="checkbox" name="polearm" id="polearm" class="weapon">
-													<label for="polearm">Polearm</label><br />
+													<label for="polearm">Polearm</label>
+													<br />
 													<input type="checkbox" name="bow" id="bow" class="weapon">
-													<label for="bow">Bow</label><br />
+													<label for="bow">Bow</label>
+													<br />
 													<input type="checkbox" name="crossbow" id="crossbow" class="weapon">
-													<label for="crossbow">Crossbow</label><br />
+													<label for="crossbow">Crossbow</label>
+													<br />
 													<input type="checkbox" name="zonBow" id="zonBow" class="weapon">
-													<label for="zonBow">Amazon Bow</label><br />
+													<label for="zonBow">Amazon Bow</label>
+													<br />
 													<input type="checkbox" name="zonSpear" id="zonSpear" class="weapon">
-													<label for="zonSpear">Amazon Spear</label><br />
+													<label for="zonSpear">Amazon Spear</label>
+													<br />
 													<input type="checkbox" name="sinKatar" id="sinKatar" class="weapon">
-													<label for="sinKatar">Assassin Katar</label><br />
+													<label for="sinKatar">Assassin Katar</label>
+													<br />
 													<input type="checkbox" name="orb" id="orb" class="weapon">
-													<label for="orb">Sorceress Orb</label><br />
+													<label for="orb">Sorceress Orb</label>
+													<br />
 												</td>
 											</tr>
 										</table>
 									</td>
 								</tr>
-								
+								<tr>
+									<td colspan="2">
+										<a id="selectArmor" title="Select All Armors" href="#" onclick="SelectAllArmor();return false;">Select All Armor</a> / <a id="selectWeapons" title="Select All Weapons" href="#" onclick="SelectAllWeapons();return false;">Select All Weapons</a> / <a id="deselectAllBases" title="Deselect All Bases" href="#" onclick="DeselectAllBases();return false;">Deselect All</a>
+									</td>
+								</tr>
 							</table>
 						</td>
 					</tr>
 					<tr>
-									<td>
-										<a id="selectAll" title="Select All Runes" href="#" onclick="SelectAllRunes();return false;">Select All</a> / <a id="deselectAll" title="Deselect All Runes" href="#" onclick="DeselectAllRunes();return false;">Deselect All</a>
-									</td>
-									<td>
-											<a id="selectArmor" title="Select All Armors" href="#" onclick="SelectAllArmor();return false;">Select All Armor</a> / <a id="selectWeapons" title="Select All Weapons" href="#" onclick="SelectAllWeapons();return false;">Select All Weapons</a> / <a id="deselectAllBases" title="Deselect All Bases" href="#" onclick="DeselectAllBases();return false;">Deselect All</a>
-										</td>
-								</tr>
+						<td>
+							<input type="radio" name="runeSelect" id="only" value="only">
+							<label for="only">Show runewords that <B>ONLY</B> use the selected runes.</label>
+							<br />
+							<input type="radio" name="runeSelect" id="any" value="any" checked="true">
+							<label for="any">Show runewords that use <B>ANY</B> of the selected runes.</label>
+							<br />
+							<input type="radio" name="runeSelect" id="one" value="one" hidden="true">
+							<label for="one" hidden="true">Show runewords that are missing up to <B>ONE</B> rune.</label>
+						</td>
+						<td>
+							<table>
+								<th colspan="6">Amount of sockets:</th>
+								<th>String Search:</th>
 								<tr>
 									<td>
-										<input type="radio" name="runeSelect" id="only" value="only">
-										<label for="only">Show runewords that <B>ONLY</B> use the selected runes.</label><br />
-										<input type="radio" name="runeSelect" id="any" value="any" checked="true">
-										<label for="any">Show runewords that use <B>ANY</B> of the selected runes.</label>
+										<input type="checkbox" name="anySockets" id="anySockets" class="socket" checked="true">
+										<label for="anySockets">Any</label>
 									</td>
 									<td>
-										<table>
-											<th>String Search:</th>
-								<tr>
+										<input type="checkbox" name="twoSockets" id="twoSockets" class="socket">
+										<label for="twoSockets">2</label>
+									</td>
+									<td>
+										<input type="checkbox" name="threeSockets" id="threeSockets" class="socket">
+										<label for="threeSockets">3</label>
+									</td>
+									<td>
+										<input type="checkbox" name="fourSockets" id="fourSockets" class="socket">
+										<label for="fourSockets">4</label>
+									</td>
+									<td>
+										<input type="checkbox" name="fiveSockets" id="fiveSockets" class="socket">
+										<label for="fiveSockets">5</label>
+									</td>
+									<td>
+										<input type="checkbox" name="sixSockets" id="sixSockets" class="socket">
+										<label for="sixSockets">6</label>
+									</td>
 									<td>
 										<input type="text" id="strSearch">
 										<input type="text" id="hidden" tabindex="-1">
 									</td>
 								</tr>
-										</table>
-									</td>
-								</tr>
+							</table>
+						</td>
+					</tr>
 					<tr>
 						<td>
 							<button type="button" onclick="getRws()" id="getRwsBtn">Get RuneWords</button>
@@ -281,13 +333,10 @@
 					</tr>
 				</table>
 			</form>
-		</center>
 		<div>
-			<center>
 				<table id="results" cellpadding="5" border="0">
 					
 				</table>
-			</center>
 		</div>
 	</body>
 </html> 

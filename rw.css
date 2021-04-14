@@ -16,6 +16,8 @@ th {
 	text-align: center;
 }
 #results {
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
 }
 
@@ -39,4 +41,8 @@ th {
 .rwStats {
 	max-width: 660px;
 	color: #4850B8;
+}
+#filters {
+	margin-left: auto;
+	margin-right: auto;
 }

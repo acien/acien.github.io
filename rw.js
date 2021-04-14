@@ -1,3 +1,16 @@
+function pageLoad(){
+	window.addEventListener("keyup", function(event) {
+	if (event.keyCode === 13) {
+		event.preventDefault();
+		event.returnValue=false;
+		event.cancel=true;
+		document.getElementById("getRwsBtn").click();
+	}
+});
+}
+
+
+
 function SelectAllRunes(){
 	var runeCheckBoxes = document.getElementsByClassName("rune");
 	for (var i = runeCheckBoxes.length - 1; i >= 0; i--) {
@@ -62,9 +75,9 @@ function formatResults(xml){
 		var baseTypes = x[i].getElementsByTagName("BaseType");
 		var runes = x[i].getElementsByTagName("Rune");
 		var stats = x[i].getElementsByTagName("Stats");
-		table +="<tr><td>" +
+		table +="<tr><td class=\"rwName\">" +
 		x[i].getElementsByTagName("Name")[0].childNodes[0].nodeValue + 
-		"</td><td>" +
+		"</td><td class=\"rwBases\">" +
 		x[i].getElementsByTagName("BaseSockets")[0].childNodes[0].nodeValue + 
 		" socket ";
 		for (var j = 0; j < baseTypes.length; j++) {
@@ -73,14 +86,14 @@ function formatResults(xml){
 			}
 			table += baseTypes[j].childNodes[0].nodeValue;
 		}
-		table += "</td><td>";
+		table += "</td><td class=\"rwRunes\">";
 		for (var j = 0; j < runes.length; j++) {
 			if(j > 0){
 				table +=  " + ";
 			}
 			table += runes[j].childNodes[0].nodeValue;
 		}
-		table += "</td><td>";
+		table += "</td><td class=\"rwStats\">";
 
 		for (var j = 0; j < stats.length; j++) {
 			for (var k = 0; k < stats[j].children.length; k++) {
@@ -625,3 +638,4 @@ function getBaseSelected(base){
 	alert("ERROR: Invalid base in xml file: " + base);
 	return false;
 }
+

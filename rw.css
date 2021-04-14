@@ -1,3 +1,42 @@
 body {
-  background-color: lightblue;
+  background-color: black;
+  color: #afafaf;
+}
+#hidden {
+	display: none;
+}
+
+th {
+	font-weight: bold;
+	font-size: 1.2em;
+	color: #908858;
+	text-align: left;
+}
+#results th {
+	text-align: center;
+}
+#results {
+	text-align: center;
+}
+
+#results tr:nth-child(even) {
+  background-color: #20100a;
+}
+
+.rwBases {
+	max-width: 385px;
+}
+
+.rwName {
+	max-width: 135px;
+	color: #908858;
+}
+
+.rwRunes {
+	max-width: 225px;
+}
+
+.rwStats {
+	max-width: 660px;
+	color: #4850B8;
 }

@@ -1,12 +1,14 @@
-function pageLoad(){
+function pageLoad() {
+	document.getElementById("any").checked = true;
+	document.getElementById("anySockets").checked = true;
 	window.addEventListener("keyup", function(event) {
-	if (event.keyCode === 13) {
-		event.preventDefault();
-		event.returnValue=false;
-		event.cancel=true;
-		document.getElementById("getRwsBtn").click();
-	}
-});
+		if (event.keyCode === 13) {
+			event.preventDefault();
+			event.returnValue=false;
+			event.cancel=true;
+			document.getElementById("getRwsBtn").click();
+		}
+	});
 }
 
 
@@ -211,8 +213,22 @@ function filterByRunes(rwList){
 				z++;
 			}
 		}
+	}else if (document.getElementById("one")) {
+		for (var i = 0; i < rwList.length; i++) {
+			var runes = rwList[i].getElementsByTagName("Rune");
+			var checkAllCount = 0;
+			for (var j = 0; j < runes.length; j++) {
+				if(getRunesSelected(runes[j].childNodes[0].nodeValue)){
+					checkAllCount++;
+				}
+			}
+			if(checkAllCount >= runes.length - 1){
+				filteredList[z] = rwList[i];
+				z++;
+			}
+		}
 	}else {
-		alert("ERROR: Some how you managed to not select a filter type.")
+		alert("ERROR: Some how you managed to not select a filter type.");
 	}
 	return filteredList;
 }

@@ -5,7 +5,10 @@ body {
 #hidden {
 	display: none;
 }
-
+h1,h3 {
+	text-align: center;
+	color: #908858;
+}
 th {
 	font-weight: bold;
 	font-size: 1.2em;

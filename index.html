@@ -1,10 +1,13 @@
  <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<link rel="stylesheet" type="text/css" href="rw.css">
 		<script src="rw.js"></script>
+		<title>Runeword Calculator</title>
 	</head>
 	<body onload="pageLoad()">
+		<h1>Runeword Calculator & Filter</h1>
+		<h3>by Acien</h3>
 			<form>
 				<table id= "filters">
 					<tr>
@@ -283,19 +286,21 @@
 							<input type="radio" name="runeSelect" id="only" value="only">
 							<label for="only">Show runewords that <B>ONLY</B> use the selected runes.</label>
 							<br />
-							<input type="radio" name="runeSelect" id="any" value="any" checked="true">
+							<input type="radio" name="runeSelect" id="any" value="any">
 							<label for="any">Show runewords that use <B>ANY</B> of the selected runes.</label>
 							<br />
-							<input type="radio" name="runeSelect" id="one" value="one" hidden="true">
-							<label for="one" hidden="true">Show runewords that are missing up to <B>ONE</B> rune.</label>
+							<input type="radio" name="runeSelect" id="one" value="one">
+							<label for="one">Show runewords that are missing up to <B>ONE</B> rune.</label>
 						</td>
 						<td>
 							<table>
-								<th colspan="6">Amount of sockets:</th>
-								<th>String Search:</th>
+								<tr>
+									<th colspan="6">Amount of sockets:</th>
+									<th>String Search:</th>
+								</tr>
 								<tr>
 									<td>
-										<input type="checkbox" name="anySockets" id="anySockets" class="socket" checked="true">
+										<input type="checkbox" name="anySockets" id="anySockets" class="socket">
 										<label for="anySockets">Any</label>
 									</td>
 									<td>
@@ -327,14 +332,14 @@
 						</td>
 					</tr>
 					<tr>
-						<td>
+						<td colspan = "2">
 							<button type="button" onclick="getRws()" id="getRwsBtn">Get RuneWords</button>
 						</td>
 					</tr>
 				</table>
 			</form>
 		<div>
-				<table id="results" cellpadding="5" border="0">
+				<table id="results">
 					
 				</table>
 		</div>

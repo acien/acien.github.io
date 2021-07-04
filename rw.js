@@ -53,13 +53,32 @@ function DeselectAllBases(){
 }
 
 function getRws(){
+	var	RWSet = document.getElementById("rwSet");
+	var xmlSet = "";
+	switch(RWSet.value){
+		case "lod":
+			xmlSet = "rw - base d2 lod.xml"
+			break;
+		case "pd2S1":
+			xmlSet = "rw - pd2 season 1.xml"
+			break;
+		case "pd2S2":
+			xmlSet = "rw - pd2 season 2.xml"
+			break;
+		case "pd2S3":
+			xmlSet = "rw - pd2 season 3.xml"
+			break;
+		default:
+			alert("ERROR: Invalid RW Set Selected.");
+			break;
+	}
 	var xhttp = new XMLHttpRequest();
 	xhttp.onreadystatechange = function(){
 		if (this.readyState == 4 && this.status == 200){
 			formatResults(this);
 		}
 	};
-	xhttp.open("GET", "rw.xml", true);
+	xhttp.open("GET", xmlSet, true);
 	xhttp.send();
 }
 

@@ -92,6 +92,9 @@ function formatResults(xml){
 	var x = strFilter(filterBySockets(filterByBase(filterByRunes(y))));
 
 	// output results
+	if(x.length == 0){
+		table = "<tr><th>No Results Found Please Change Your Selections!</th></tr>"
+	}
 	for (var i = 0; i < x.length; i++) {
 		var baseTypes = x[i].getElementsByTagName("BaseType");
 		var runes = x[i].getElementsByTagName("Rune");

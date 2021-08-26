@@ -59,6 +59,9 @@ function getRws(){
 		case "lod":
 			xmlSet = "rw - base d2 lod.xml"
 			break;
+		case "d2r":
+			xmlSet = "rw - d2r.xml"
+			break;
 		case "pd2S1":
 			xmlSet = "rw - pd2 season 1.xml"
 			break;

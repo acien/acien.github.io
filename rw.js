@@ -71,6 +71,9 @@ function getRws(){
 		case "pd2S3":
 			xmlSet = "rw - pd2 season 3.xml"
 			break;
+		case "pd2S4":
+			xmlSet = "rw - pd2 season 4.xml"
+			break;
 		default:
 			alert("ERROR: Invalid RW Set Selected.");
 			break;

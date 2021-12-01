@@ -1636,7 +1636,7 @@
 			<Stat>10% Chance To Cast Level 18 Life Tap On Striking</Stat>
 			<Stat>60% Chance To Cast Level 40 Charged Bolt On Attack</Stat>
 			<Stat>Level 17 Might Aura When Equipped</Stat>
-			<Stat>+450-500% Enhanced Damage (varies)</Stat>
+			<Stat>+350-400% Enhanced Damage (varies)</Stat>
 			<Stat>Ignore Target's Defense</Stat>
 			<Stat>60-70% Chance of Crushing Blow (varies)</Stat>
 			<Stat>Prevent Monster Heal</Stat>
@@ -1711,7 +1711,7 @@
 			<StatBase>Weapons</StatBase>
 			<Stat>30% Chance To Cast Level 21 Enchant When You Kill An Enemy</Stat>
 			<Stat>40% Faster Hit Recovery</Stat>
-			<Stat>+370% Enhanced Damage</Stat>
+			<Stat>+280-320% Enhanced Damage</Stat>
 			<Stat>-25% Target Defense</Stat>
 			<Stat>Adds 3-14 Cold Damage 3 Second Duration (Normal)</Stat>
 			<Stat>-25% To Enemy Fire Resistance</Stat>

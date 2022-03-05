@@ -1519,6 +1519,8 @@
 		<Name>Infinity</Name>
 		<BaseSockets>4</BaseSockets>
 		<BaseType>Polearm</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Amazon Spear</BaseType>
 		<Ladder>False</Ladder>
 		<Rune>Ber</Rune>
 		<Rune>Mal</Rune>
@@ -1647,6 +1649,8 @@
 		<Name>Obedience</Name>
 		<BaseSockets>5</BaseSockets>
 		<BaseType>Polearm</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Amazon Spear</BaseType>
 		<Ladder>False</Ladder>
 		<Rune>Hel</Rune>
 		<Rune>Ko</Rune>
@@ -1719,6 +1723,8 @@
 		<Name>Pride</Name>
 		<BaseSockets>4</BaseSockets>
 		<BaseType>Polearm</BaseType>
+		<BaseType>Spear</BaseType>
+		<BaseType>Amazon Spear</BaseType>
 		<Ladder>False</Ladder>
 		<Rune>Cham</Rune>
 		<Rune>Sur</Rune>
@@ -1990,6 +1996,8 @@
 		<Name>Plague</Name>
 		<BaseSockets>3</BaseSockets>
 		<BaseType>Sword</BaseType>
+		<BaseType>Assassin Katar</BaseType>
+		<BaseType>Dagger</BaseType>
 		<Ladder>True</Ladder>
 		<Rune>Cham</Rune>
 		<Rune>Um</Rune>

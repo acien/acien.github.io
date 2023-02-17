@@ -65,6 +65,9 @@ function getRws(){
 		case "d2r24":
 			xmlSet = "rw - d2r 2.4.xml"
 			break;
+		case "d2r26":
+			xmlSet = "rw - d2r 2.6.xml"
+			break;
 		case "pd2S1":
 			xmlSet = "rw - pd2 season 1.xml"
 			break;
